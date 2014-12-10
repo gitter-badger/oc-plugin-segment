@@ -1,4 +1,3 @@
-segment
-=======
+# oc-plugin-segment
 
-Segment.com.Plugin for OctoberCMS
+> Segment (http://www.segment.com) Plugin for OctoberCMS.

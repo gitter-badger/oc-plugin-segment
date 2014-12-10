@@ -1,9 +1,9 @@
 {
-	"name": "axc/segment",
-	"description": "Segment.com Plugin for OctoberCMS",
+	"name": "axc/oc-plugin-segment",
+	"description": "Segment (http://www.segment.com) Plugin for OctoberCMS",
 	"type": "library",
 	"keywords": ["october", "cms", "plugin", "axc", "segment", "customer", "data", "analytics"],
-	"homepage": "https://www.alexcarrega.com/p/segment",
+	"homepage": "https://www.alexcarrega.com/p/oc-plugin-segment",
 	"license": "Apache-2.0",
 	"authors": [
 		{
@@ -14,11 +14,11 @@
 		}
 	],
 	"support": {
-		"email": "support-segment@alexcarrega.com",
-		"issues": "https://github.com/alexcarrega/segment/issues",
-		"wiki": "https://github.com/alexcarrega/segment/wiki",
+		"email": "support-oc-plugin-segment@alexcarrega.com",
+		"issues": "https://github.com/alexcarrega/oc-plugin-segment/issues",
+		"wiki": "https://github.com/alexcarrega/oc-plugin-segment/wiki",
 		"forum": "@todo",
-		"source": "https://github.com/alexcarrega/segment/wiki"
+		"source": "https://github.com/alexcarrega/oc-plugin-segment/wiki"
 	},
 	"require": {
 		"php": ">=5.4.0"
