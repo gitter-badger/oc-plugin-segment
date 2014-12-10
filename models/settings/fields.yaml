@@ -1,0 +1,7 @@
+fields:
+  write_key:
+    comment: axc.segment::lang.settings.fields.write_key.comment
+    label: axc.segment::lang.settings.fields.write_key.label
+    placeholder: axc.segment::lang.settings.fields.write_key.placeholder
+    required: true
+    span: left
