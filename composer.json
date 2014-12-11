@@ -1,5 +1,5 @@
 {
-	"name": "axc/oc-plugin-segment",
+	"name": "alexcarrega/oc-plugin-segment",
 	"description": "Segment (http://www.segment.com) Plugin for OctoberCMS",
 	"type": "library",
 	"keywords": ["october", "cms", "plugin", "axc", "segment", "customer", "data", "analytics"],
